@@ -7,7 +7,7 @@ An IoT based solution to support the deaf in driving. Team HackAttack's idea for
 2. Clone this and the mobile app's repository.
 4. Run the main.dart.
    
-A few resources to get you started if this is your first Flutter project:
+Check out the official Flutter documentation
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
